@@ -1,7 +1,7 @@
 # Introduction
 Algorithm for Mesh intersection point detection and tracking in net cleaning operations
 # Data preparation
-[TiChi](https://tianchi.aliyun.com/notebook-ai/myDataSet#datalabId=221688)
+[TiChi](https://tianchi.aliyun.com/dataset/221688)
 # Training
 train_unet_with_LRLS_conv_for_net_point_detection.py is for detection model training and testing.
 
